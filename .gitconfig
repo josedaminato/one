@@ -1,0 +1,8 @@
+[user]
+	name = Jose Pablo Daminato
+	email = daminatojp@gmail.com
+[usar]
+	email = daminatojp@gmail.com
+[core]
+	editor = code --wait
+	autocrlf = true
